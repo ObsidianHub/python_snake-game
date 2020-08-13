@@ -35,3 +35,11 @@ def drawGrid(w, rows, surface):
 def redrawWindow(surface):
   pass
 
+def randomSnack(rows, items):
+  pass
+
+def message_box(subject, content):
+  pass
+
+def main():
+  pass
